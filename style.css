@@ -20,7 +20,7 @@ body {
 }
 
 .background-color-product-page {
-  background-color: #0057f7d1;
+  background-color: #3600f7cb;
   position: absolute;
   top: 0;
   left: 0;
@@ -88,7 +88,7 @@ header ul li a {
   color: white;
   font-size: 50px;
   text-shadow:
-    3px 5px 2px #474747,
+    3px 5px 2px #000000,
     2px 2px 8px rgb(0, 0, 0);
 }
 
@@ -98,7 +98,7 @@ header ul li a {
   color: white;
   font-size: 30px;
   text-shadow:
-    3px 3px 2px #474747,
+    3px 3px 2px #000000,
     2px 2px 8px rgb(0, 0, 0);
   margin-top: 30px;
   margin-bottom: 50px;
@@ -126,8 +126,8 @@ header ul li a {
   color: white;
   font-size: 25px;
   text-shadow:
-    3px 5px 2px #474747,
-    2px 2px 8px rgb(0, 0, 0);
+    3px 5px 2px #000000,
+    2px 2px 8px rgb(255, 132, 0);
   margin-top: 30px;
   margin-bottom: 50px;
   margin-left: 20px;
@@ -139,7 +139,7 @@ header ul li a {
   color: white;
   font-size: 50px;
   text-shadow:
-    3px 5px 2px #474747,
+    3px 5px 2px #000000,
     2px 2px 8px rgb(0, 0, 0);
 }
 
@@ -167,7 +167,7 @@ header ul li a {
   color: white;
   font-size: 20px;
   text-shadow:
-    3px 5px 2px #474747,
+    3px 5px 2px #000000,
     2px 2px 8px rgb(0, 0, 0);
   max-width: 80%;
 }
@@ -177,7 +177,7 @@ header ul li a {
   color: white;
   font-size: 30px;
   text-shadow:
-    3px 5px 2px #474747,
+    3px 5px 2px #000000,
     2px 2px 8px rgb(0, 0, 0);
 }
 
@@ -186,7 +186,7 @@ header ul li a {
   color: white;
   font-size: 25px;
   text-shadow:
-    3px 5px 2px #474747,
+    3px 5px 2px #000000,
     2px 2px 8px rgb(0, 0, 0);
   margin: 0 auto;
   margin-left: 40px;
@@ -220,7 +220,7 @@ header ul li a {
   color: white;
   font-size: 50px;
   text-shadow:
-    3px 5px 2px #474747,
+    3px 5px 2px #000000,
     2px 2px 8px rgb(0, 0, 0);
 }
 
@@ -229,6 +229,6 @@ header ul li a {
   color: white;
   font-size: 25px;
   text-shadow:
-    3px 5px 2px #474747,
+    3px 5px 2px #000000,
     2px 2px 8px rgb(0, 0, 0);
 }
