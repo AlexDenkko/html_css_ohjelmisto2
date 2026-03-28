@@ -20,7 +20,7 @@ body {
 }
 
 .background-color-product-page {
-  background-color: #000000e0;
+  background-color: #0067f763;
   position: absolute;
   top: 0;
   left: 0;
@@ -89,17 +89,17 @@ header ul li a {
   font-size: 50px;
   text-shadow:
     3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    2px 2px 8px rgb(0, 0, 0);
 }
 
 #main_container p {
   width: 50%;
   text-align: center;
   color: white;
-  font-size: 25px;
+  font-size: 30px;
   text-shadow:
-    3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    3px 3px 2px #474747,
+    2px 2px 8px rgb(0, 0, 0);
   margin-top: 30px;
   margin-bottom: 50px;
 }
@@ -127,7 +127,7 @@ header ul li a {
   font-size: 25px;
   text-shadow:
     3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    2px 2px 8px rgb(0, 0, 0);
   margin-top: 30px;
   margin-bottom: 50px;
   margin-left: 20px;
@@ -140,7 +140,7 @@ header ul li a {
   font-size: 50px;
   text-shadow:
     3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    2px 2px 8px rgb(0, 0, 0);
 }
 
 #products_main_products {
@@ -168,7 +168,7 @@ header ul li a {
   font-size: 20px;
   text-shadow:
     3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    2px 2px 8px rgb(0, 0, 0);
   max-width: 80%;
 }
 
@@ -178,7 +178,7 @@ header ul li a {
   font-size: 30px;
   text-shadow:
     3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    2px 2px 8px rgb(0, 0, 0);
 }
 
 .products h3 {
@@ -187,7 +187,7 @@ header ul li a {
   font-size: 25px;
   text-shadow:
     3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    2px 2px 8px rgb(0, 0, 0);
   margin: 0 auto;
   margin-left: 40px;
   margin-top: 18px;
@@ -221,7 +221,7 @@ header ul li a {
   font-size: 50px;
   text-shadow:
     3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    2px 2px 8px rgb(0, 0, 0);
 }
 
 .map_info p {
@@ -230,5 +230,5 @@ header ul li a {
   font-size: 25px;
   text-shadow:
     3px 5px 2px #474747,
-    2px 2px 8px rgb(255, 255, 255);
+    2px 2px 8px rgb(0, 0, 0);
 }
