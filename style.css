@@ -2,10 +2,6 @@
   font-family: "Roboto Condensed", sans-serif;
 }
 
-* img {
-  fetchpriority=high;
-}
-
 body {
   margin: 0 auto;
 }
