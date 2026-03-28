@@ -2,6 +2,10 @@
   font-family: "DM Sans", sans-serif;
 }
 
+* img {
+  fetchpriority=high;
+}
+
 body {
   margin: 0 auto;
 }
