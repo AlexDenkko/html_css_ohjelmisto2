@@ -68,7 +68,7 @@ header ul li a {
 
 #img_container img {
   border-radius: 10px;
-  box-shadow: 10px 10px 20px #0000009d;
+  box-shadow: 10px 10px 20px #000000;
 }
 
 #main_container h1 {
@@ -98,7 +98,7 @@ header ul li a {
 .products_main_top img {
   height: 320px;
   border-radius: 10px;
-  box-shadow: 10px 10px 20px #0000009d;
+  box-shadow: 10px 10px 20px #000000;
   margin: 0 auto;
 }
 
@@ -161,7 +161,7 @@ header ul li a {
 .products img {
   height: 320px;
   border-radius: 10px;
-  box-shadow: 10px 10px 20px #0000009d;
+  box-shadow: 10px 10px 20px #000000;
   margin: 0 auto;
   margin-right: 20px;
 }
